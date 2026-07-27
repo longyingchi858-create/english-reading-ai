@@ -1,31 +1,4 @@
-# ReadMate AI
-
-**AI 驱动的英语阅读分析与自学助手**
-
-学英语刷阅读题，再也不用对着错题、生词、长难句无从下手。**ReadMate AI** 是一款专为英语学习者打造的智能阅读复盘工具，你只需上传阅读素材，AI 会自动帮你解析文章、拆解题目、梳理知识点，自动沉淀专属学习内容，帮你轻松形成完整的刷题—纠错—复盘学习闭环。
-
----
-
-## ✨ 核心功能
-
-### 1\. AI 全自动阅读题目解析
-
-告别逐题查答案、找解析的繁琐，支持上传常见格式的阅读资料，全程自动处理：
-
-- 支持文件：**PDF / DOCX / TXT**
-
-- 自动提取全文文本，精准识别阅读文章和对应题目
-
-- AI 智能判题、给出标准答案，核对你的作答
-
-- 定位原文关键证据，逐一对每个选项做详细拆解
-
-- 精准分析错题原因，帮你理清失分逻辑
-
-**解析示例**
-
-```Plain Text
-Question: What is the main purpose of the passage?
+suestion: What is the main purpose of the passage?
 
 Evidence: （原文关键句自动定位）
 
@@ -118,19 +91,32 @@ src
 
 ---
 
-## 🖼 项目截图
 
 
+## 📸 项目截图
 
-- AI 阅读解析主页面
-![alt text](msedge.exe_20260727_162554.png)
+### AI 阅读解析主页
 
-- 错题复盘页面
-![alt text](msedge.exe_20260727_162615.png)
+![AI阅读解析主页](./public/screenshots/home.png)
 
-- 单词复习管理页面
-![alt text](msedge.exe_20260727_162626.png)
+
+### 错题复盘页面
+
+![错题复盘页面](./public/screenshots/review.png)
+
+
+### 单词复习页面
+
+![单词复习页面](./public/screenshots/words.png)
 ---
+
+```
+## 🚀 Demo
+
+Online Demo:
+
+https://english-reading-ai.vercel.app
+```
 
 ## 🔮 未来规划
 
@@ -144,4 +130,4 @@ src
 
 - AI 个性化学习路径推荐，针对性弥补短板
 
-> （注：部分内容可能由 AI 生成）
+> （注：部分内容可能由 AI
